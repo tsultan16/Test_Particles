@@ -1,0 +1,1 @@
+# 3D simulations of test particle in an electromagetic field, using 5th order Runge-Kutta time integration, implemented in FORTRAN
